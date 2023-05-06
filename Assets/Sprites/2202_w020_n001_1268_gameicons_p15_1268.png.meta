@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 412e06ef92dd4bf4ba94e7b5fd48f607
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_11
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2380
+        width: 597
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5403d39d1b98d4dbc5f7272348c7a5
+      internalID: -1185623714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_12
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2380
+        width: 598
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bae3cee56ec6145b3795faaf143a6c
+      internalID: -831026769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_13
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 2380
+        width: 595
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4949a655a9deb34ba02ddca6eaf57fd
+      internalID: 343114550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_14
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 2380
+        width: 597
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4060cf9aedfc64a4cb1ddc65c4ea1f22
+      internalID: 108488586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_15
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2380
+        width: 597
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb6766d86c6df469f2e9579516b911
+      internalID: 1560449338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_16
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 2380
+        width: 594
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc4b9801db67364b9211ac0380c356e
+      internalID: 1585806714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_17
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1668
+        width: 613
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30179503469fab44ea2cbad68be6b536
+      internalID: -2130262771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_18
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1668
+        width: 597
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452cd8dbda283a149819f9be2192a8de
+      internalID: 1303925310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_19
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 1668
+        width: 595
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab273b90ff049845b31f656d622b7af
+      internalID: -1706057929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_20
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 1668
+        width: 597
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9502fa40ee85734dbdc269e3fe1676c
+      internalID: -1160809250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_21
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1668
+        width: 597
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af4287662d7f847b9cf40e35c737e0
+      internalID: 1632518070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_22
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 1668
+        width: 594
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06245ae615aa7db46925f79405e80fa4
+      internalID: 87801407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_23
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 956
+        width: 598
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec738b8c6e82144aa2044dfde560062
+      internalID: 1472470729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_24
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 956
+        width: 594
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b334a5df5f121848af1af464ce82e39
+      internalID: 398207534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_25
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 956
+        width: 597
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da2942a08dc9b4bbce8a0d8cc5ad41
+      internalID: 85593198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_26
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 956
+        width: 598
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea67b149ae7dc4db8eef3f1ae97967
+      internalID: -654808061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_27
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 956
+        width: 594
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23c3b5dbded4a545accddab09e2df36
+      internalID: -115590583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_28
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 956
+        width: 594
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e16481be406b16479ce7ff604f2d689
+      internalID: -756946844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_29
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 247
+        width: 614
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e59bcc96c27846adf4fddc62bb94f
+      internalID: -1203946864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_30
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 245
+        width: 594
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8045d310a9c74684bd6bbe6cdc0c8
+      internalID: 58717601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_31
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 245
+        width: 597
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d499553ccd0275c4cb1c098a44c660a9
+      internalID: -1557137043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_32
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 245
+        width: 598
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b49f9878a9634fb4bed406de8a394
+      internalID: -159937689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_33
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 245
+        width: 594
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2878076862be3924ba671f430c908d6e
+      internalID: -87407173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2202_w020_n001_1268_gameicons_p15_1268_34
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 245
+        width: 594
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2aedd4fa657cb4bb91fe00f331b68a
+      internalID: 1425254585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2202_w020_n001_1268_gameicons_p15_1268_7: 563763473
+      2202_w020_n001_1268_gameicons_p15_1268_3: 1010741401
+      2202_w020_n001_1268_gameicons_p15_1268_10: 1615614416
+      2202_w020_n001_1268_gameicons_p15_1268_11: -1185623714
+      2202_w020_n001_1268_gameicons_p15_1268_31: -1557137043
+      2202_w020_n001_1268_gameicons_p15_1268_25: 85593198
+      2202_w020_n001_1268_gameicons_p15_1268_18: 1303925310
+      2202_w020_n001_1268_gameicons_p15_1268_20: -1160809250
+      2202_w020_n001_1268_gameicons_p15_1268_19: -1706057929
+      2202_w020_n001_1268_gameicons_p15_1268_23: 1472470729
+      2202_w020_n001_1268_gameicons_p15_1268_2: -1287177775
+      2202_w020_n001_1268_gameicons_p15_1268_28: -756946844
+      2202_w020_n001_1268_gameicons_p15_1268_0: -1219702842
+      2202_w020_n001_1268_gameicons_p15_1268_8: -1926769665
+      2202_w020_n001_1268_gameicons_p15_1268_16: 1585806714
+      2202_w020_n001_1268_gameicons_p15_1268_1: -1124863539
+      2202_w020_n001_1268_gameicons_p15_1268_30: 58717601
+      2202_w020_n001_1268_gameicons_p15_1268_21: 1632518070
+      2202_w020_n001_1268_gameicons_p15_1268_22: 87801407
+      2202_w020_n001_1268_gameicons_p15_1268_17: -2130262771
+      2202_w020_n001_1268_gameicons_p15_1268_27: -115590583
+      2202_w020_n001_1268_gameicons_p15_1268_4: 1290724739
+      2202_w020_n001_1268_gameicons_p15_1268_33: -87407173
+      2202_w020_n001_1268_gameicons_p15_1268_6: 2068842795
+      2202_w020_n001_1268_gameicons_p15_1268_9: 1177477522
+      2202_w020_n001_1268_gameicons_p15_1268_26: -654808061
+      2202_w020_n001_1268_gameicons_p15_1268_29: -1203946864
+      2202_w020_n001_1268_gameicons_p15_1268_12: -831026769
+      2202_w020_n001_1268_gameicons_p15_1268_15: 1560449338
+      2202_w020_n001_1268_gameicons_p15_1268_5: 1103406254
+      2202_w020_n001_1268_gameicons_p15_1268_32: -159937689
+      2202_w020_n001_1268_gameicons_p15_1268_24: 398207534
+      2202_w020_n001_1268_gameicons_p15_1268_13: 343114550
+      2202_w020_n001_1268_gameicons_p15_1268_34: 1425254585
+      2202_w020_n001_1268_gameicons_p15_1268_14: 108488586
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
