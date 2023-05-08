@@ -79,6 +79,11 @@ public class MenuController : MonoBehaviour
         PlaySFX(SfxClear);
         SceneManager.LoadScene("Stage1");
     }
+    public void CallData()
+    {
+        PlaySFX(SfxClear);
+       SceneManager.LoadScene("Data Screen");
+    }
     public void MusicSwitch()
     {
         PlaySFX(SfxClear);

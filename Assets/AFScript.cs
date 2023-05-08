@@ -1,14 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using AppsFlyerSDK;
 
 
 public class AFScript : MonoBehaviour
 {
+        public Text _text;
+
+
     // Start is called before the first frame update
     void Start()
     {
+         _text.text = getAppsFlyerId();
          Debug.Log("start");
         // These fields are set from the editor so do not modify!
         //******************************//
@@ -28,4 +33,9 @@ public class AFScript : MonoBehaviour
     {
         
     }
+     public string getAppsFlyerId()
+    {
+        string AppsFlyerUID = AppsFlyer.getAppsFlyerId();
+        return AppsFlyerUID;
+    } 
 }
