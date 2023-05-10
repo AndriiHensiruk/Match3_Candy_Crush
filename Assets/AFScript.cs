@@ -19,6 +19,8 @@ public class AFScript : MonoBehaviour
        
          _text.text = getAppsFlyerId();
          Debug.Log("start");
+         string AppsFlyerUID = AppsFlyer.getAppsFlyerId();
+         Debug.Log(AppsFlyerUID);
         // These fields are set from the editor so do not modify!
         //******************************//
         AppsFlyer.setIsDebug(true);
