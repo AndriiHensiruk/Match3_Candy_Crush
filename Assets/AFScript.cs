@@ -16,7 +16,8 @@ public class AFScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
+        
+        
          _text.text = getAppsFlyerId();
          Debug.Log("start");
          string AppsFlyerUID = AppsFlyer.getAppsFlyerId();

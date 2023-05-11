@@ -41,6 +41,7 @@ public class MenuController : MonoBehaviour
             GameController.m_StageN = 0;
             SceneManager.LoadScene("Stage1");
         }
+         
     }
     public void ContinueStart()
     {
