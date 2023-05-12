@@ -8,16 +8,13 @@ using AppsFlyerSDK;
 public class AFScript : MonoBehaviour
 {
         public Text _text;
-         
-       
-
-
-
+  
     // Start is called before the first frame update
     void Start()
     {
         
-        
+        AppsFlyer.setIsDebug(true);
+
          _text.text = getAppsFlyerId();
          Debug.Log("start");
          string AppsFlyerUID = AppsFlyer.getAppsFlyerId();
