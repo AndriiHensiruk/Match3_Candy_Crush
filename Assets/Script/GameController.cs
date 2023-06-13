@@ -9,9 +9,9 @@ using System.Collections;
 public class GameController : MonoBehaviour
 {
     // AppsFlyer object - the only communication with AppsFlyer
-    [SerializeField] private AppsFlyerObjectScript appsFlyerObj;
-    private static GameController _instance;
-    public static Dictionary<string, object> ConvertionData { get => _instance.appsFlyerObj.ConversionData; }
+   // [SerializeField] private AppsFlyerObjectScript appsFlyerObj;
+   // private static GameController _instance;
+   // public static Dictionary<string, object> ConvertionData { get => _instance.appsFlyerObj.ConversionData; }
     private int _extraButterfliesCount;
 
     public GameObject m_Board;
@@ -87,43 +87,43 @@ public class GameController : MonoBehaviour
         MusicSource.GetComponent<AudioSource>().loop = true;
     }
 
-    // private void FixedUpdate()
-    // {
-    //     if(!m_GamePause)
-    //     {
-    //         TimerCounter();
-    //         if(m_Points >= m_TotalPoints)
-    //             StageClear();
-    //         if(m_Time <= 0)
-    //             GameOver();
-
-    //     }
-    // }
-     private void FixedUpdate()
+    private void FixedUpdate()
     {
-        // check if the extra butterflies number of AppsFlyer object has changed
-        if (appsFlyerObj.ExtraButterflies > 0)
+        if(!m_GamePause)
         {
-            _extraButterfliesCount += appsFlyerObj.ExtraButterflies;
-            appsFlyerObj.ExtraButterflies = 0;
-        }
-
-
-        // check if the AppsFlyer object had received a deep link
-        if (appsFlyerObj.DidReceivedDeepLink)
-        {
-            appsFlyerObj.DidReceivedDeepLink = false;
-            if (!m_GamePause)
-            {
-                 TimerCounter();
-                 if(m_Points >= m_TotalPoints)
+            TimerCounter();
+            if(m_Points >= m_TotalPoints)
                 StageClear();
-             if(m_Time <= 0)
-                 GameOver();
-            }
+            if(m_Time <= 0)
+                GameOver();
 
         }
     }
+    //  private void FixedUpdate()
+    // {
+        // check if the extra butterflies number of AppsFlyer object has changed
+        // if (appsFlyerObj.ExtraButterflies > 0)
+        // {
+        //     _extraButterfliesCount += appsFlyerObj.ExtraButterflies;
+        //     appsFlyerObj.ExtraButterflies = 0;
+        // }
+
+
+        // // check if the AppsFlyer object had received a deep link
+        // if (appsFlyerObj.DidReceivedDeepLink)
+        // {
+        //     appsFlyerObj.DidReceivedDeepLink = false;
+        //     if (!m_GamePause)
+        //     {
+        //          TimerCounter();
+        //          if(m_Points >= m_TotalPoints)
+        //         StageClear();
+        //      if(m_Time <= 0)
+        //          GameOver();
+        //     }
+
+        // }
+    //}
     public void PlaySFX(AudioClip sfxClip)
     {
         SFXSource.GetComponent<AudioSource>().PlayOneShot(sfxClip, 0.7f);
